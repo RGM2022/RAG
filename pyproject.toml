@@ -1,7 +1,7 @@
 [project]
 name = "local-document-search"
 version = "0.1.0"
-description = "Local model-free document search with Streamlit and BM25"
+description = "Local GraphRAG-style document search with Streamlit and a concept graph"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
